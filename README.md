@@ -1,2 +1,3 @@
-# coursera-html
-Coursera HTML CSS JS
+#build setting
+markdown: kramdown
+theme : minima
